@@ -11,6 +11,7 @@ module.exports = {
     "../lib/kanban_web.ex",
     "../lib/kanban_web/**/*.*ex"
   ],
+  darkMode: 'class',
   theme: {
     extend: {
       colors: {
